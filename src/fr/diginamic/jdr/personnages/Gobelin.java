@@ -6,6 +6,8 @@ public class Gobelin extends Creature {
 	// Declaration constantes 
 	private static final int MIN_FORCE = 5;
 	private static final int MAX_FORCE = 10;
+	
+	
 	private static final int MIN_VIE = 10;
 	private static final int MAX_VIE = 15;
 	private static final int RECOMPENSE = 2;
